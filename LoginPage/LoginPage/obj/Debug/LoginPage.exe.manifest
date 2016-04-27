@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="LoginPage.exe" version="1.0.0.0" publicKeyToken="8ccda1e3523ff997" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="LoginPage" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="LoginPage.exe" parameters="" />
+    <hostInBrowser xmlns="urn:schemas-microsoft-com:asm.v3" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="Internet" Description="Default rights given to Internet applications" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LoginPage.exe" size="11264">
+      <assemblyIdentity name="LoginPage" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>zf9ybUs+KOEsO4KGQehjYAEGIXU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="LoginPage.exe.config" size="1564">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+odQ6EhhPyh4mAklpjC5mz4ZMSo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CHAIRMAN\Administrator" issuerKeyHash="3d6474f612f974adff5a68700e6ee7617b800827" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>/ol90n8hA3CKogWdZ1wK7YGnOGg=</DigestValue></Reference></SignedInfo><SignatureValue>DNcdZjSXr33YOwYfztzCPcE1mQE7Ly7iCerlKSIZbHbUdYXGOyDy0kd2Y/E7/L8ARcS6vOfRfNY1xrgqwWl9hlQSIycV4T4h0ylyPWbe7FeSS20SlR3x5aRb+PJvHcc1Pp+LMToQQyxTfyrZFv2wBjbYV53JoNwnE6Mt90SJKJo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pHr2XkaIJ8KJxAFl8BbQ9UddnUKZmO3618nB6ViHIDB56DM8H2SQQBJrydAQo4rB25o5m7CwLXUplFEmS1ORLoKv2eYwS3HmisaPTA5+q4G4Uxi97+imd2TWijAhKAW3zRDBOtbagr5xrJKNkdS8C7Kw7fLoWaiYnYC9Vib7N7M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6838a781ed0a5c679d05a28a7003217fd27d89fe" Description="" Url=""><as:assemblyIdentity name="LoginPage.exe" version="1.0.0.0" publicKeyToken="8ccda1e3523ff997" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CHAIRMAN\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>oV8EMejPqhTxTXW9t1dkIoy2WPU=</DigestValue></Reference></SignedInfo><SignatureValue>FOce/3SUxo7n5D0Rw5H9HA1FjCNbi1eFulCg4l3Putf6PbAiY7w9uWt49ki8K8SnBgzROSIwlSgyUZuQm65CVcI347tRSOiEaySgyrCqtPuMt2harvV2yyqoYEuDHsgxO+vH6K7VJ0eRWNzCGzqEELSN1tP2uci5sbW2zu8Qrlo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pHr2XkaIJ8KJxAFl8BbQ9UddnUKZmO3618nB6ViHIDB56DM8H2SQQBJrydAQo4rB25o5m7CwLXUplFEmS1ORLoKv2eYwS3HmisaPTA5+q4G4Uxi97+imd2TWijAhKAW3zRDBOtbagr5xrJKNkdS8C7Kw7fLoWaiYnYC9Vib7N7M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQGGHPQwtVJ6hFDwVf0bU/FjANBgkqhkiG9w0BAQUFADA3MTUwMwYDVQQDHiwAQwBIAEEASQBSAE0AQQBOAFwAQQBkAG0AaQBuAGkAcwB0AHIAYQB0AG8AcjAeFw0xMzEyMjgwMjUzNTVaFw0xNDEyMjgwODUzNTVaMDcxNTAzBgNVBAMeLABDAEgAQQBJAFIATQBBAE4AXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCkevZeRognwonEAWXwFtD1R12dQpmY7frXycHpWIcgMHnoMzwfZJBAEmvJ0BCjisHbmjmbsLAtdSmUUSZLU5Eugq/Z5jBLceaKxo9MDn6rgbhTGL3v6KZ3ZNaKMCEoBbfNEME61tqCvnGsko2R1LwLsrDt8uhZqJidgL1WJvs3swIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAFVh6OaWf4bAnXBTLA+8zLdd+KiXeI4OEQUtuqXLyS2a0QHlJs3CoTJO5HsncxFkYxnCnLT5HFm9+7e+lKdYwDUfEXhgxV/OUm0JkRDTq2a7P+ct9nuP8mndmaY9pdTJsIJcUfQHQ6rhVdhYhN4c7be+6PVCO3BoEA1U1orvDFa/</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

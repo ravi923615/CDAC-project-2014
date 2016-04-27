@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\bin\Debug\LoginServiceLaunch.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\bin\Debug\LoginServiceLaunch.exe
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\bin\Debug\LoginServiceLaunch.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\bin\Debug\LoginServiceWCF.dll
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\bin\Debug\DataBaseLayer.dll
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\bin\Debug\LoginServiceWCF.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\bin\Debug\DataBaseLayer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\obj\x86\Debug\LoginServiceLaunch.ProjectInstaller.resources
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\obj\x86\Debug\LoginServiceLaunch.exe
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceLaunch\obj\x86\Debug\LoginServiceLaunch.pdb

@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceWCF\bin\Debug\LoginServiceWCF.dll
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceWCF\bin\Debug\LoginServiceWCF.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceWCF\bin\Debug\DataBaseLayer.dll
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceWCF\bin\Debug\DataBaseLayer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceWCF\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceWCF\obj\Debug\LoginServiceWCF.dll
+c:\users\administrator\documents\visual studio 2010\Projects\LoginServiceWCF\LoginServiceWCF\obj\Debug\LoginServiceWCF.pdb

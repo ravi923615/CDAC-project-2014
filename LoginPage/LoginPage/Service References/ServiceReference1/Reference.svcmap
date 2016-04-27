@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6330cac9-521b-4ff1-b6b0-d3995a3b0115" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:9199/service1" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="d1c53956-3618-4e48-987a-03cff7a937da" SourceId="1" SourceUrl="http://localhost:9199/service1?xsd=xsd1" />
+    <MetadataFile FileName="CService1.wsdl" MetadataType="Wsdl" ID="8a71f5c6-d5f1-4bf0-bd11-f70fd817c2d4" SourceId="1" SourceUrl="http://localhost:9199/service1?wsdl" />
+    <MetadataFile FileName="service1.disco" MetadataType="Disco" ID="14091f0b-ac32-4af4-aa2f-f64671beea41" SourceId="1" SourceUrl="http://localhost:9199/service1?disco" />
+    <MetadataFile FileName="service11.xsd" MetadataType="Schema" ID="1a1711a0-5453-42c8-9dd0-4c9efcb7c9e7" SourceId="1" SourceUrl="http://localhost:9199/service1?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

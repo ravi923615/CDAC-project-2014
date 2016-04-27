@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\bin\Debug\LoginPage.exe.manifest
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\bin\Debug\LoginPage.xbap
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\obj\Debug\Page1.baml
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\obj\Debug\Page1.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\obj\Debug\LoginPage_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.g.resources
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.TrustInfo.xml
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.exe.manifest
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.xbap
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+c:\users\administrator\documents\visual studio 2010\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.Cache
